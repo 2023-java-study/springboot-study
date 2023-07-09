@@ -19,4 +19,4 @@ Windows Defender가 wsl를 검사해서 그렇다고 한다.
 5. 제외 사항 추가(파일, 폴더, 프로세스)
 6. 프로세스: idea64.exe추가(얘 안하면 build속도 개선이 없었음)
 7. 파일 : 사용하는 Intellij.exe의 경로 선택
-8. 폴더 : C:\Users\zhfpt\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc\LocalState
+8. 폴더 : C:\Users\{사용자}\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc\LocalState
